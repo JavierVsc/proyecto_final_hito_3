@@ -5,6 +5,14 @@
 NEXBYTE es una tienda online de productos tecnológicos con un único vendedor: NEXBYTE. La aplicación conserva el frontend desarrollado en el Hito 2 y añade una API REST conectada a PostgreSQL, con autenticación, autorización y operaciones sobre productos, perfiles, favoritos, carrito y pedidos.
 
 **Frontend público:** https://nexbyte-hito-2.onrender.com
+**Backend público:** https://proyecto-final-hito-3.onrender.com
+**API REST:** https://proyecto-final-hito-3.onrender.com/api/v1
+
+**Endpoints de consulta:**
+- Estado de la API: `/api/v1/health`
+- Estado de PostgreSQL: `/api/v1/health/db`
+- Categorías: `/api/v1/categories`
+- Productos: `/api/v1/products`
 
 ## Arquitectura
 
