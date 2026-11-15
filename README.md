@@ -10,11 +10,11 @@ NEXBYTE es una tienda online de productos tecnológicos con un único vendedor: 
 
 **API REST:** https://proyecto-final-hito-3.onrender.com/api/v1
 
-**Endpoints de consulta:**
-- Estado de la API: `/api/v1/health`
-- Estado de PostgreSQL: `/api/v1/health/db`
-- Categorías: `/api/v1/categories`
-- Productos: `/api/v1/products`
+**Consultas**
+- Estado de la API: https://proyecto-final-hito-3.onrender.com/api/v1/health
+- Estado de PostgreSQL: https://proyecto-final-hito-3.onrender.com/api/v1/health/db
+- Categorías: https://proyecto-final-hito-3.onrender.com/api/v1/categories
+- Productos: https://proyecto-final-hito-3.onrender.com/api/v1/products
 
 ## Arquitectura
 
